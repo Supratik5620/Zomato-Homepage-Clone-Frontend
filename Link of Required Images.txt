@@ -1,0 +1,29 @@
+Zomato shortcut icon: https://b.zmtcdn.com/images/logo/zomato_logo_2017.png
+Zomato logo: https://b.zmtcdn.com/web_assets/8313a97515fcb0447d2d77c276532a511583262271.png
+header image: https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png
+
+Section 0:
+Pic 1: https://b.zmtcdn.com/webFrontend/e5b8785c257af2a7f354f1addaf37e4e1647364814.jpeg?output-format=webp&fit=around|402:360&crop=402:360;*,*
+Pic 2: https://b.zmtcdn.com/webFrontend/d026b357feb0d63c997549f6398da8cc1647364915.jpeg?output-format=webp&fit=around|402:360&crop=402:360;*,* 
+Pic 3: https://b.zmtcdn.com/webFrontend/d9d80ef91cb552e3fdfadb3d4f4379761647365057.jpeg?output-format=webp&fit=around|402:360&crop=402:360;*,*
+
+Section 1:
+Pic 1: https://b.zmtcdn.com/data/collections/0124f583d822eb86e3265199d8c97a59_1665640435.jpg
+Pic 2: https://b.zmtcdn.com/data/collections/c6446d626ba68217c01d4318cebf4a1d_1665917059.jpg
+Pic 3: https://b.zmtcdn.com/data/collections/810ce585c806c2140fd9913ed4e45187_1665730401.jpg?fit=around|858.4000000000001:256&crop=858.4000000000001:256;*,*
+Pic 4: https://b.zmtcdn.com/data/collections/6a8093ca2a82370ab39818a0239c8abe_1665728038.jpg
+
+Section 3: 
+Phone pic: https://b.zmtcdn.com/data/o2_assets/a500ffc2ab483bc6a550aa635f4e55531648107832.png
+Google Play store downlod: https://b.zmtcdn.com/data/webuikit/23e930757c3df49840c482a8638bf5c31556001144.png
+Apple App Store download: https://b.zmtcdn.com/data/webuikit/9f0c85a5e33adb783fa0aef667075f9e1556003622.png
+
+Section 5:
+Icon: https://b.zmtcdn.com/web_assets/b40b97e677bc7b2ca77c58c61db266fe1603954218.png?fit=around%7C198:42&crop=198:42;*,*
+Linked In logo: https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png
+Instagram logo: https://freepngimg.com/save/122260-logo-instagram-free-transparent-image-hq/700x700
+Twitter logo: https://seeklogo.com/images/T/twitter-icon-circle-black-logo-35827D553B-seeklogo.com.png
+Youtube logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CIS-A2K_Youtube_Icon_%28Black%29.svg/800px-CIS-A2K_Youtube_Icon_%28Black%29.svg.png
+Facebook logo: https://cdn-icons-png.flaticon.com/512/20/20673.png
+
+
